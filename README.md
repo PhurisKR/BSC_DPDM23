@@ -9,7 +9,8 @@ Score
 - Quiz(เดี่ยว ถามในห้อง)  ![](https://geps.dev/progress/5)
 - GitHub  ![](https://geps.dev/progress/5)
 
-Final Score = Score * %attendance ![](https://geps.dev/progress/100)
+Final Score = Score * %attendance 
+![](https://geps.dev/progress/100)
 
 
 
