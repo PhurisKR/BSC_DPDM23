@@ -16,34 +16,47 @@ Final Score = Score * %attendance
 # Score Progress
 
 ## Midterm (Data Preprocessing) - 20%
-<div style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
-  <div style="width: 20%; background-color: #4CAF50; color: white; text-align: center;">20%</div>
-</div>
+<svg width="200" height="20">
+  <rect width="200" height="20" style="fill: lightgray;"/>
+  <rect width="40" height="20" style="fill: #4CAF50;"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black">20%</text>
+</svg>
 
 ## Final (Data Mining Theory) - 20%
-<div style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
-  <div style="width: 20%; background-color: #4CAF50; color: white; text-align: center;">20%</div>
-</div>
+<svg width="200" height="20">
+  <rect width="200" height="20" style="fill: lightgray;"/>
+  <rect width="40" height="20" style="fill: #4CAF50;"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black">20%</text>
+</svg>
 
 ## Project (Data Processing + Data Mining) - 30%
-<div style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
-  <div style="width: 30%; background-color: #4CAF50; color: white; text-align: center;">30%</div>
-</div>
+<svg width="200" height="20">
+  <rect width="200" height="20" style="fill: lightgray;"/>
+  <rect width="60" height="20" style="fill: #4CAF50;"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black">30%</text>
+</svg>
 
 ## Homework (Group Assignments) - 20%
-<div style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
-  <div style="width: 20%; background-color: #4CAF50; color: white; text-align: center;">20%</div>
-</div>
+<svg width="200" height="20">
+  <rect width="200" height="20" style="fill: lightgray;"/>
+  <rect width="40" height="20" style="fill: #4CAF50;"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black">20%</text>
+</svg>
 
 ## Quiz (In-Class) - 5%
-<div style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
-  <div style="width: 5%; background-color: #4CAF50; color: white; text-align: center;">5%</div>
-</div>
+<svg width="200" height="20">
+  <rect width="200" height="20" style="fill: lightgray;"/>
+  <rect width="10" height="20" style="fill: #4CAF50;"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black">5%</text>
+</svg>
 
 ## GitHub (Organization and Beauty) - 5%
-<div style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
-  <div style="width: 5%; background-color: #4CAF50; color: white; text-align: center;">5%</div>
-</div>
+<svg width="200" height="20">
+  <rect width="200" height="20" style="fill: lightgray;"/>
+  <rect width="10" height="20" style="fill: #4CAF50;"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black">5%</text>
+</svg>
+
 
 
 
