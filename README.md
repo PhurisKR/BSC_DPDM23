@@ -13,8 +13,13 @@ Final Score = Score * %attendance
 
 
 ## Homework
-- [Hw.2](https://github.com/phurisk/BSC_DPDM23/blob/main/Hw2.pdf)
-- [Hw.5](https://github.com/phurisk/BSC_DPDM23/blob/main/Hw_5_%E0%B8%A0%E0%B8%B9%E0%B8%A3%E0%B8%B4%E0%B8%A8.pdf)
+- [Hw.1](https://github.com/PhurisKR/BSC_DPDM23/tree/main/HW_1)
+- [Hw.2](https://github.com/PhurisKR/BSC_DPDM23/tree/main/HW_2)
+- [Hw.3](https://github.com/PhurisKR/BSC_DPDM23/tree/main/HW_3)
+- [Hw.4](https://github.com/PhurisKR/BSC_DPDM23/tree/main/HW_4)
+- [Hw.5](https://github.com/PhurisKR/BSC_DPDM23/tree/main/HW_5)
+
+
 
 ## Quiz
 - [Quiz9(Last)](https://github.com/phurisk/BSC_DPDM23/blob/main/426557531_311318285255165_3616148309199044172_n.jpg)
