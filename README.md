@@ -34,8 +34,8 @@ Final Score = Score * %attendance
 - [เตรียมข้อมูลอุตุนิยมวิทยา](https://github.com/PhurisKR/BSC_DPDM23/blob/main/midterm_bscdpdm23_phuris.ipynb)
 
 ## Final
-
-
+- [Project Decision tree](https://github.com/PhurisKR/BSC_DPDM23/tree/main/Final)
+- [WebApp](https://github.com/PhurisKR/Predict_Fake_News)
  # Data mining
  
   ## Knowledge Discovery (KDD) Process
