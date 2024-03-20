@@ -2,8 +2,7 @@
 Data Preparation and Data Mining
 
 # Me
-🐱 &emsp; Phuris Kruacharee (ภูริศ เครือชารี) 
-- 643020514-7
+🐱 &emsp; Phuris Kruacharee (ภูริศ เครือชารี) __643020514-7__
 
 Score
 - Midterm (data prepocessing ปฏิบัติ (เดี่ยว))  ![](https://geps.dev/progress/20)
