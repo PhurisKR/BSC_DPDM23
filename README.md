@@ -4,7 +4,7 @@ Data Preparation and Data Mining
 # Me
 🐱 &emsp; Phuris Kruacharee (ภูริศ เครือชารี) __643020514-7__
 
-Score
+## Score
 - Midterm (data prepocessing ปฏิบัติ (เดี่ยว))  ![](https://geps.dev/progress/20)
 - Final(ทฤษฎี data mining เดี่ยว)  ![](https://geps.dev/progress/20)
 - Project(data prepocessing + data mining (กลุ่ม))  ![](https://geps.dev/progress/30)
