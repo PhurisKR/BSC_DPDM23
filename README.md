@@ -57,6 +57,8 @@ Final Score = Score * %attendance
 
 
 # Example training data set
+![image](https://github.com/PhurisKR/BSC_DPDM23/assets/118201161/4f6cd41b-05b7-43ea-88e4-b74047c9c24a)
+
 
 # Decision Tree
 ![Blank diagram](https://github.com/phurisk/BSC_DPDM23/assets/137043070/f76cb092-fd0e-441b-814a-c29cac92d121)
