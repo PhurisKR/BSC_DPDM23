@@ -2,7 +2,7 @@
 Data Preparation and Data Mining
 
 Score
-- Midterm (data prepocessing ปฏิบัติ (เดี่ยว)) 20%
+- Midterm (data prepocessing ปฏิบัติ (เดี่ยว)) 20%<vaadin-progress-bar value="0.2"></vaadin-progress-bar>
 - Final(ทฤษฎี data mining เดี่ยว) 20%
 - Project(data prepocessing + data mining (กลุ่ม)) 30%
 - Homework(แบ่งกลุ่มใหม่ทุกครั้ง) 20%
@@ -19,13 +19,6 @@ Final Score = Score * %attendance
 - GitHub ![-](https://progress-bar.dev/5/?title=Progress) 5%
 
 
-
-- Midterm (data preprocessing ปฏิบัติ (เดี่ยว)) <div class="progress"><div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width:20%">20%</div></div>
-- Final (ทฤษฎี data mining เดี่ยว) <div class="progress"><div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width:20%">20%</div></div>
-- Project (data preprocessing + data mining (กลุ่ม)) <div class="progress"><div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width:30%">30%</div></div>
-- Homework (แบ่งกลุ่มใหม่ทุกครั้ง) <div class="progress"><div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width:20%">20%</div></div>
-- Quiz (เดี่ยว ถามในห้อง) <div class="progress"><div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width:5%">5%</div></div>
-- GitHub <div class="progress"><div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width:5%">5%</div></div>
 
 
 
