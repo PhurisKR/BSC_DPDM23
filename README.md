@@ -11,12 +11,12 @@ Score
 
 Final Score = Score * %attendance
 
-- Midterm (data preprocessing ปฏิบัติ (เดี่ยว)) ![--------](https://progress-bar.dev/20/?title=Progress) 20%
-- Final (ทฤษฎี data mining เดี่ยว) ![------------------](https://progress-bar.dev/20/?title=Progress) 20%
-- Project (data preprocessing + data mining (กลุ่ม)) ![------------------](https://progress-bar.dev/30/?title=Progress) 30%
-- Homework (แบ่งกลุ่มใหม่ทุกครั้ง) ![------------------](https://progress-bar.dev/20/?title=Progress) 20%
-- Quiz (เดี่ยว ถามในห้อง) ![------------------](https://progress-bar.dev/5/?title=Progress) 5%
-- GitHub ![------------------](https://progress-bar.dev/5/?title=Progress) 5%
+- Midterm (data preprocessing ปฏิบัติ (เดี่ยว)) ![-](https://progress-bar.dev/20/?title=Progress) 20%
+- Final (ทฤษฎี data mining เดี่ยว) ![-](https://progress-bar.dev/20/?title=Progress) 20%
+- Project (data preprocessing + data mining (กลุ่ม)) ![-](https://progress-bar.dev/30/?title=Progress) 30%
+- Homework (แบ่งกลุ่มใหม่ทุกครั้ง) ![-](https://progress-bar.dev/20/?title=Progress) 20%
+- Quiz (เดี่ยว ถามในห้อง) ![-](https://progress-bar.dev/5/?title=Progress) 5%
+- GitHub ![-](https://progress-bar.dev/5/?title=Progress) 5%
 
 
 
