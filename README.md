@@ -35,7 +35,7 @@ Final Score = Score * %attendance
 
 ## Final
 - [Project Decision tree](https://github.com/PhurisKR/BSC_DPDM23/tree/main/Final)
-- [WebApp](https://github.com/PhurisKR/Predict_Fake_News)
+- [WebApp_Predict_From_Decision tree](https://github.com/PhurisKR/Predict_Fake_News)
  # Data mining
  
   ## Knowledge Discovery (KDD) Process
