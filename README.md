@@ -27,7 +27,7 @@ Final Score = Score * %attendance
 
 
 ## Quiz
-- [Quiz9(Last)](https://github.com/phurisk/BSC_DPDM23/blob/main/426557531_311318285255165_3616148309199044172_n.jpg)
+- [Quiz(All)](https://github.com/PhurisKR/BSC_DPDM23/tree/main/Quiz)
 
  # Data mining
  
