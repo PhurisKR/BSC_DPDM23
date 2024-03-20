@@ -2,7 +2,7 @@
 Data Preparation and Data Mining
 
 Score
-- Midterm (data prepocessing ปฏิบัติ (เดี่ยว)) 20%<vaadin-progress-bar value="0.2"></vaadin-progress-bar>
+- Midterm (data prepocessing ปฏิบัติ (เดี่ยว)) 20% <vaadin-progress-bar value="0.2"></vaadin-progress-bar>
 - Final(ทฤษฎี data mining เดี่ยว) 20%
 - Project(data prepocessing + data mining (กลุ่ม)) 30%
 - Homework(แบ่งกลุ่มใหม่ทุกครั้ง) 20%
