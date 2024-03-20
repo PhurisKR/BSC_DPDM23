@@ -12,48 +12,6 @@ Score
 Final Score = Score * %attendance
 
 
-
-# Course Scoring System
-
-This repository contains the scoring system for the course. The scoring is based on the following components:
-
-- Midterm (Data Preprocessing) = 20%
-- Final (Data Mining Theory) = 20%
-- Project (Data Processing + Data Mining) = 30%
-- Homework (Group Assignments) = 20%
-- Quiz (In-Class) = 5%
-- GitHub (Organization and Beauty) = 5%
-
-## Calculating Final Score
-
-To calculate the final score, follow these steps:
-
-1. **Assign Scores**: Assign scores for each component.
-2. **Apply Weights**: Multiply each component score by its respective weight.
-3. **Sum up**: Sum up the weighted scores to get the final score.
-
-Here's an example calculation:
-
-```python
-midterm_score = 85  # Assuming the student scored 85 out of 100 in the midterm
-final_score = 90  # Assuming the student scored 90 out of 100 in the final
-project_score = 80  # Assuming the project score out of 100
-homework_score = 75  # Assuming the homework score out of 100
-quiz_score = 95  # Assuming the quiz score out of 100
-github_score = 100  # Assuming the GitHub score out of 100
-
-midterm_weight = 0.20
-final_weight = 0.20
-project_weight = 0.30
-homework_weight = 0.20
-quiz_weight = 0.05
-github_weight = 0.05
-
-final_score = (midterm_score * midterm_weight) + (final_score * final_weight) + (project_score * project_weight) + (homework_score * homework_weight) + (quiz_score * quiz_weight) + (github_score * github_weight)
-
-
-
-
 ## Homework
 📝 &emsp;[Hw.1](https://github.com/PhurisKR/BSC_DPDM23/tree/main/HW_1) <br/><br/>
 📝 &emsp;[Hw.2](https://github.com/PhurisKR/BSC_DPDM23/tree/main/HW_2) <br/><br/>
