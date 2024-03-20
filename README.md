@@ -12,6 +12,45 @@ Score
 Final Score = Score * %attendance
 
 
+
+# Score Progress
+
+## Midterm (Data Preprocessing) - 20%
+<div style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
+  <div style="width: 20%; background-color: #4CAF50; color: white; text-align: center;">20%</div>
+</div>
+
+## Final (Data Mining Theory) - 20%
+<div style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
+  <div style="width: 20%; background-color: #4CAF50; color: white; text-align: center;">20%</div>
+</div>
+
+## Project (Data Processing + Data Mining) - 30%
+<div style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
+  <div style="width: 30%; background-color: #4CAF50; color: white; text-align: center;">30%</div>
+</div>
+
+## Homework (Group Assignments) - 20%
+<div style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
+  <div style="width: 20%; background-color: #4CAF50; color: white; text-align: center;">20%</div>
+</div>
+
+## Quiz (In-Class) - 5%
+<div style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
+  <div style="width: 5%; background-color: #4CAF50; color: white; text-align: center;">5%</div>
+</div>
+
+## GitHub (Organization and Beauty) - 5%
+<div style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
+  <div style="width: 5%; background-color: #4CAF50; color: white; text-align: center;">5%</div>
+</div>
+
+
+
+
+
+
+
 ## Homework
 📝 &emsp;[Hw.1](https://github.com/PhurisKR/BSC_DPDM23/tree/main/HW_1) <br/><br/>
 📝 &emsp;[Hw.2](https://github.com/PhurisKR/BSC_DPDM23/tree/main/HW_2) <br/><br/>
