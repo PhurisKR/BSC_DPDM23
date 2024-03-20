@@ -29,6 +29,13 @@ Final Score = Score * %attendance
 ## Quiz
 - [Quiz(All)](https://github.com/PhurisKR/BSC_DPDM23/tree/main/Quiz)
 
+
+## Midterm
+- [เตรียมข้อมูลอุตุนิยมวิทยา](https://github.com/PhurisKR/BSC_DPDM23/blob/main/midterm_bscdpdm23_phuris.ipynb)
+
+## Final
+
+
  # Data mining
  
   ## Knowledge Discovery (KDD) Process
