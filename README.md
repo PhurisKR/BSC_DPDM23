@@ -1,5 +1,7 @@
 # BSC_DPDM23
 Data Preparation and Data Mining
+<br/><br/>
+Slide&File &emsp; [Go🚀](https://drive.google.com/drive/folders/1pCDUzbfNkLg6xSxc4Pjk1UU6MrZST5rS?usp=sharing) <br/><br/>
 
 # Me
 🐱 &emsp; Phuris Kruacharee (ภูริศ เครือชารี) __643020514-7__
