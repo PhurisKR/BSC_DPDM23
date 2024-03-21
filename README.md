@@ -102,7 +102,7 @@ Final Score = Score * %attendance
 - 4: ทำตามข้อ 2 และข้อ 3 อีกครั้งจนกว่า C1 และ C2 ตำแหน่งไม่เปลียน
 
 
-#Flowchart of a supervised machine learning example
+# Flowchart of a supervised machine learning example
 
 ![image](https://github.com/PhurisKR/BSC_DPDM23/assets/118201161/13367eba-0cc2-49b0-94b4-4876d26955ec)
 
