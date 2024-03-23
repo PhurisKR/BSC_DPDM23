@@ -34,6 +34,7 @@ Final Score = Score * %attendance
 
 ## Midterm
 - [เตรียมข้อมูลอุตุนิยมวิทยา](https://github.com/PhurisKR/BSC_DPDM23/blob/main/midterm_bscdpdm23_phuris.ipynb)
+- [Data_Set](https://drive.google.com/drive/u/0/folders/0AFqO-XKVjQttUk9PVA)
 
 ## Project
 - [Project Decision tree](https://github.com/PhurisKR/BSC_DPDM23/tree/main/Final)
